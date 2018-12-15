@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+
+# specific to this repo
+data/
+submission/
+
+# python related
+__pycache__/
+*.py[cod]
+*.$py.class
+
+# R related
+*.Rhistory
+
+# temporary files
+*~
+
+# common files
+*.pdf
+*.docx
+*.txt
+
+# other
+.DS_Store
+*.log
